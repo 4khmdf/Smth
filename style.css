@@ -1,0 +1,41 @@
+.threeyear{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+    color: white;
+    gap: 40px;
+    
+}
+.threeyear h1{
+    cursor: pointer;
+    font-weight: 300;
+    font-size: 500%;
+}
+.threeyear h1:hover{
+    color: aqua;
+}
+.threeyear h2{
+    font-weight: 400;
+    font-size: 350%;
+    cursor: pointer;
+}
+.threeyear h2:hover{
+    color: red;
+}
+.threeyear p{
+    font-weight: 500;
+    font-size: 150%;
+    cursor: pointer;
+}
+.threeyear p:hover{
+    color: lime;
+}
+.videos{
+    display: flex;
+
+}
+.balaca{
+  width: 100%;
+  height: 820px;  
+}
